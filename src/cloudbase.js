@@ -1,7 +1,7 @@
 import cloudbase from '@cloudbase/js-sdk'
 
 const CLOUD_CONFIG = {
-  env: 'YOUR_CLOUDBASE_ENV_ID',
+  env: 'ken1370838788-d9gyeeebwdbba971e',
   region: 'ap-shanghai',
   collection: 'orders',
   roomId: 'miaomiao-ken',
